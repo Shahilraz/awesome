@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shahilraz.github.io/awesome/static/css/main.48eab2da.css",
+    "main.js": "/Shahilraz.github.io/awesome/static/js/main.df745954.js",
+    "index.html": "/Shahilraz.github.io/awesome/index.html",
+    "main.48eab2da.css.map": "/Shahilraz.github.io/awesome/static/css/main.48eab2da.css.map",
+    "main.df745954.js.map": "/Shahilraz.github.io/awesome/static/js/main.df745954.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48eab2da.css",
+    "static/js/main.df745954.js"
+  ]
+}
